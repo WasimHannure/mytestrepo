@@ -1,1 +1,2 @@
 this is teh demo file for testing git
+this is the correct code
