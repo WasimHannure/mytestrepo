@@ -1,2 +1,3 @@
 this is teh demo file for testing git
 this is the correct code
+this is the latest message from the file
